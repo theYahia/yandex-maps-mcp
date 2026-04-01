@@ -1,7 +1,7 @@
 {
   "name": "@theyahia/yandex-maps-mcp",
-  "version": "1.0.0",
-  "description": "MCP server for Yandex Maps API — geocoding, routing, places search, static maps for AI agents",
+  "version": "1.0.1",
+  "description": "MCP server for Yandex Maps — geocoding, routing, places search (Russia)",
   "type": "module",
   "main": "dist/index.js",
   "bin": {
@@ -44,7 +44,8 @@
     "geocoding",
     "routing",
     "places",
-    "typescript"
+    "typescript",
+    "api"
   ],
   "license": "MIT",
   "repository": {
